@@ -1,6 +1,6 @@
 # Word Vector Test
 This repository contains my **toy** test on several pretrained word2vector models intuitively. A more detailed test can be found [here](https://github.com/piskvorky/word_embeddings). All the test commentary are in the code, the test code is well self-explained.
-I use the library [gensim](https://radimrehurek.com/gensim/)
+I use the library [gensim](https://radimrehurek.com/gensim/). You can also find a torch7 implementation to read binary word vector files [here](https://github.com/rotmanmi/word2vec.torch).
 
 ## Conclusion
 The google news does good on the similarity test, but it is not good for several intrinsic analogy test, such as past tense, superlative adjectives.
