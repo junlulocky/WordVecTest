@@ -33,3 +33,4 @@ Please feel free to submit additions to this list through a pull request. The ta
 ## The application of Word2Vector
 - [Zhihu Post (in Chinese)](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
 - [Blog by Christopher Olah](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
+
